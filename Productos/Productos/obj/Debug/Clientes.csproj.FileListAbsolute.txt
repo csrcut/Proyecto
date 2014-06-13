@@ -1,0 +1,9 @@
+C:\Users\Cesar AG\Desktop\Productos\Productos\obj\Debug\Clientes.csprojResolveAssemblyReference.cache
+C:\Users\Cesar AG\Desktop\Productos\Productos\obj\Debug\Clientes.Agregar.resources
+C:\Users\Cesar AG\Desktop\Productos\Productos\obj\Debug\Clientes.editar.resources
+C:\Users\Cesar AG\Desktop\Productos\Productos\obj\Debug\Clientes.MainForm.resources
+C:\Users\Cesar AG\Desktop\Productos\Productos\obj\Debug\Clientes.csproj.GenerateResource.Cache
+C:\Users\Cesar AG\Desktop\Productos\Productos\bin\Debug\Clientes.exe
+C:\Users\Cesar AG\Desktop\Productos\Productos\bin\Debug\Clientes.pdb
+C:\Users\Cesar AG\Desktop\Productos\Productos\obj\Debug\Clientes.exe
+C:\Users\Cesar AG\Desktop\Productos\Productos\obj\Debug\Clientes.pdb
